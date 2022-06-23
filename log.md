@@ -9,7 +9,7 @@
 
 **Link to work:** 
 
-### Day 1: June 22,2022 
+### Day 1: June 23,2022 
 ##### 
 
 **Today's Progress**: 
