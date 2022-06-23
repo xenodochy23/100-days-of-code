@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 23,2022  1 Hour of Coding
+### Day 1: June 23,2022  
 ##### 
 
 **Today's Progress**:  I started my 100 🦾 Days of Code with a Mini M.E.R.N project to create a Note App. I started coding and setting up the backend FIRST. I imported the technologies that I learned and what i will use on this project. First i imported and setup a server files and imported express.js, mongoose, cors and body-parser to communicate with frontend/client side and database(MongoDb) and I learned more about Mongoose and express.JS first and really dive in to every line of code and what it really does. 
