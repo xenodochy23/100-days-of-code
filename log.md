@@ -27,7 +27,7 @@ The database schema is a structure of a database described in a formal language 
 2.) Configuration connection to connect from middleware to database using Mongoose 
 https://mongoosejs.com/
 
-3.) Controller and ROutes for reponse and request from the client side.
+3.) Controller and Routes for reponse and request from the client side.
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
 
