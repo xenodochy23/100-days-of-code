@@ -20,6 +20,28 @@ Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js. It m
 ### Day 2: June 24,2022 
 ##### 
 
+**Today's Progress**: With Continuation of my Note App Project. The backend is fully setup and established. Using Model View Controller approach. 
+1.) Model folder build MongoDb Schema 
+The database schema is a structure of a database described in a formal language supported by the database management system. The term "schema" refers to the organization of data as a blueprint of how the database is constructed. 
+
+2.) Configuration connection to connect from middleware to database using Mongoose 
+https://mongoosejs.com/
+
+3.) Controller and ROutes for reponse and request from the client side.
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
+
+**Thoughts:** 
+It is really important to know how to organize your folders using MVC approach,  I can easily track down the errors.
+Using more comments to know the code and what it does 
+
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
+### Day 3: June 25,2022 
+##### 
+
 **Today's Progress**: 
 
 **Thoughts:** 
