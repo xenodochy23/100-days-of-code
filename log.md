@@ -42,9 +42,35 @@ https://github.com/xenodochy23/day1-noteapp
 ### Day 3: June 25,2022 
 ##### 
 
-**Today's Progress**: 
+**Today's Progress**: Setting up React Frontend created a seperate Folder for client/frontend. But also i have to layout my design for my app so it take a while for me to get a decent design for a note app. 
 
 **Thoughts:** 
+I learned to setup react js learning documentations and learning more about Layout Design first so you can overview and easy to build your application. also by laying down a wireframe or prototype you already made a blueprint of the application.
 
 **Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
+### Day 4: June 26,2022 
+##### 
+
+**Today's Progress**:  I used also a component based ui framework for React for Faster development so i used ChakraUI. although many css frameworks that is popular. I love working with ChakraUI they have cool documentation and easy to understand and build applications 
+
+**Thoughts:** 
+I learned a lot and excited to build more apps with ChakraUI although i love to learn other CSS React Libraries. I love to work with documentation and with CSS its really easy to stay in one place building Components and CSS with Chakra UI
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
+### Day 5: June 27,2022 
+##### 
+
+**Today's Progress**: Build Components that i will use for note app. I build Navigation bar, Create , Delete, Edit and Home Components that will serve their own functions later. I used React Router to route and link navigation path url.
+
+**Thoughts:** 
+Learning about setting up about frontend. the beauty of React when 
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
+
 
