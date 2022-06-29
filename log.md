@@ -72,5 +72,31 @@ Learning about setting up about frontend. the beauty of React when
 **Link to work:** 
 https://github.com/xenodochy23/day1-noteapp
 
+### Day 6: June 28,2022 
+##### 
+
+**Today's Progress**: Used Postman to test my backend communication. I imported a dependency called Axios and it is a promise-based HTTP Client communicate with to call response and request from server side.
+
+ Create and View Components successfully done. We can able to Read and Create Notes & The name of the creator.  View all your notes at home page. 
+
+**Thoughts:** 
+ Axios communicates with server to do HTTP Request. I Test first my request using POSTMAN since i got some errors in naming syntax with frontend and i was able to catch and fix it. As far as UI still in progress since i got to learn more of Chakra UI. 
+
+<img width="1674" alt="Screen Shot 2022-06-29 at 7 46 09 AM" src="https://user-images.githubusercontent.com/79444246/176466914-0039eea7-5af7-4d47-8c74-243676c3372b.png">
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
+### Day 5: June 29,2022 
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
 
 
