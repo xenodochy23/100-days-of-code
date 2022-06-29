@@ -87,7 +87,7 @@ https://github.com/xenodochy23/day1-noteapp
 **Link to work:** 
 https://github.com/xenodochy23/day1-noteapp
 
-### Day 5: June 29,2022 
+### Day 7: June 29,2022 
 ##### 
 
 **Today's Progress**: 
