@@ -99,4 +99,83 @@ https://github.com/xenodochy23/day1-noteapp
 https://github.com/xenodochy23/day1-noteapp
 
 
+### Day 8: June 30,2022 
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
+
+### Day 9: July 1,2022 
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
+### Day 10: July 2,2022 
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+### Day 11: July 3,2022 
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
+
+
+### Day 12: July 4,2022 
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
+### Day 13: July 5,2022 
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
+### Day 14: July 5,2022 
+##### 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+**Link to work:** 
+https://github.com/xenodochy23/day1-noteapp
+
 
